@@ -1,0 +1,17 @@
+footer {
+    display: flex;
+    width: 100%;
+    justify-content: space-around;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    z-index: 5;
+    padding: 10px 0 10px 0;
+    border-top: 0.3px solid rgb(213, 213, 213);
+}
+
+footer #profile_icon {
+    width: 24px;
+    height: 24px;
+    border-radius: 100%;
+}

@@ -1,0 +1,15 @@
+nav {
+    width: 100%;
+    display: flex;
+    align-items: center;
+}
+
+nav #right_buttons {
+    width: 100%;
+    display: flex;
+    justify-content: flex-end;
+}
+
+nav #right_buttons img {
+    padding: 0 10px 0 10px;
+}
