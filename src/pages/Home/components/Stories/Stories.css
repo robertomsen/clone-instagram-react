@@ -1,0 +1,9 @@
+#stories {
+    display: flex;
+    margin-top: 15px;
+    white-space: nowrap;
+    overflow-y: hidden;
+    -webkit-overflow-scrolling: touch;
+    padding-bottom: 10px;
+    border-bottom: 0.3px solid rgb(208, 208, 208);
+}
