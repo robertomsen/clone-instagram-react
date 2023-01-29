@@ -14,3 +14,7 @@ nav #right_buttons {
 nav #right_buttons img {
     padding: 0 10px 0 10px;
 }
+
+#navbar--logo {
+    margin-left: 10px;
+}

@@ -8,7 +8,7 @@ import messages from '../../assets/messages.svg'
 const NavbarTop = () => {
     return (
         <nav>
-            <img src={logo} />
+            <img src={logo} id="navbar--logo"/>
             <div id="right_buttons">
                 <img src={add} />
                 <img src={heart} />

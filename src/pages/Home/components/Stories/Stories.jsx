@@ -2,7 +2,7 @@ import Storie from './components/Storie/Storie'
 import './Stories.css'
 
 const MODEL_FETCH_STORIES = [
-    {id: 1, name: 'robertomsen', url: 'https://picsum.photos/id/1/200/300', viewed: false},
+    {id: 1, name: 'Tu historia', url: 'https://picsum.photos/id/1/200/300', viewed: true},
     {id: 2, name: 'saragm', url: 'https://picsum.photos/id/10/200/300', viewed: false},
     {id: 3, name: 'carlosxxfr', url: 'https://picsum.photos/id/30/200/300', viewed: false},
     {id: 4, name: 'ramon2jsis', url: 'https://picsum.photos/id/45/200/300', viewed: false},
