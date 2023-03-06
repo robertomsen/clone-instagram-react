@@ -17,6 +17,7 @@ function App() {
             <Route path="/search" element={<Search />} />
           </Routes>
         </BrowserRouter>
+        
       </Suspense>
     </div>
   );
